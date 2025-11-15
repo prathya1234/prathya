@@ -1,0 +1,10 @@
+Command	Description
+git init	Initialize a new Git repository
+git clone <url>	Clone a remote repository
+git status	Check the status of changes
+git add <file>	Add a file to staging area
+git add .	Add all files to staging
+git commit -m "message"	Save changes to repository
+git push	Upload commits to remote
+git pull	Download & merge latest changes
+git fetch	Download changes without merging
