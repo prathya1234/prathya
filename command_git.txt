@@ -8,3 +8,47 @@ git commit -m "message"	Save changes to repository
 git push	Upload commits to remote
 git pull	Download & merge latest changes
 git fetch	Download changes without merging
+      cd
+     cat/etc/group
+     id
+     cat /etc/group
+     sudo groupdl developer
+     sudo groupdel developer
+     ls
+     LS
+   ls 
+       cd nohup.out
+    cd new.txt
+     cd devops
+     ls
+     ls -l
+     umask
+     ls -l
+     zip
+     sudo apt install zip
+     ls
+     cd
+     zip -r lgd.zip new.txt
+     ls
+     unzip [200~sudo apt install zip~lgd.ziplgd.ziplgd.ziplgd.zip
+     unzip lgd.zip
+     pwd
+     tracerout youtube.com
+     traceroute  youtube.com
+     sudo apt install inetutils-traceroute
+     traceroute  youtube.com
+     traceroute google.com
+     tracepath google,com
+     sudo apt install iputils-tracepath
+     tracepath google.com
+     tacepath google.com
+     tracepath  google.com
+     mtr  google.com
+     sudo apt install mtr
+     nslookup google.com
+     sudo apt install bind9-dnsutils
+     nslookup google.com
+     hostname
+     cat /etc/hostname
+    cat /etc/hosts
+     ping
