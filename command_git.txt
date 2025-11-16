@@ -51,4 +51,7 @@ git fetch	Download changes without merging
      hostname
      cat /etc/hostname
     cat /etc/hosts
+
      ping
+
+some more commands are added
