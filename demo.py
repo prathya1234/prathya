@@ -1,2 +1,5 @@
-print('hello')
+"""
+This module prints a greeting message.
+"""
 
+print("hello")
