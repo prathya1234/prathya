@@ -1,0 +1,3 @@
+files=$(git dff --cached --name -only --dff-filter=ACM | grep '\.py$')
+
+flake8 $files
